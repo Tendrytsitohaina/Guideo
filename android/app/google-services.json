@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898260213564",
+    "project_id": "mada-guide-touristique",
+    "storage_bucket": "mada-guide-touristique.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898260213564:android:4b7a69fe7ec6d7ba8fc839",
+        "android_client_info": {
+          "package_name": "com.example.guide_touristique_augmente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZdmnXgkN0ZDcCsMmPLCKAl2kLqNxYks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
